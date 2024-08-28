@@ -1,0 +1,9 @@
+[package]
+name = "day_16"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+priority-queue = "2.0.3"
+regex = "1.10.5"
+itertools = "0.13.0"
